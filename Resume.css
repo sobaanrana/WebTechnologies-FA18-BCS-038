@@ -1,0 +1,50 @@
+h1 {
+    margin-left: 270px ;
+    font-size: 210%;
+    /*justify-content: center;*/
+}
+
+a{
+    margin-left: 50px;
+    target: "_blank";
+}
+
+img {
+    border: 2px solid black;
+}
+
+#horizantalLine{
+    border: 1px solid black;
+    width: 100%;
+}
+
+.paddingLeft{
+    padding-left: 100px;
+}
+.second{
+    padding-left: 235px;
+}
+.third{
+    padding-left: 325px;
+}
+#VerticalLine {
+    border-right: 2px solid black;
+    height: 500px;
+    margin-right: 250px;
+}
+table:not(#upper),p,h2,ul{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#upper{
+    background-color: #C0C0C0;
+}
+ul li {
+     ;
+}
+
+#body {
+    border: 1px solid black;
+    background-color: rgb(220,220,220);
+}
